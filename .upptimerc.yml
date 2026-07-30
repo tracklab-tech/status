@@ -3,21 +3,16 @@ repo: status
 
 sites:
   - name: Application
+    url: https://app.tracklab.co/app/api/health
+  - name: API
     url: https://app.tracklab.co/api/
-  - name: Product API
-    url: https://app.tracklab.co
-  - name: Website
+  - name: Portail fournisseurs
+    url: https://portal.tracklab.co/app/api/health
+  - name: Site web
     url: https://www.tracklab.co
-    
+
 assignees:
-  - rimiti
-  - nicolasfhenry
   - quentinfapdepr
-  - paulgr-tracklab
-  - jgourdin
-  - doristlab
-  - antoniotracklab
-  - alicehjoedbi
 
 status-website:
   cname: status.tracklab.co
