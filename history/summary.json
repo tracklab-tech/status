@@ -70,25 +70,5 @@
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test alerte",
-    "url": "https://status.tracklab.co/introuvable-pour-test",
-    "icon": "https://icons.duckduckgo.com/ip3/status.tracklab.co.ico",
-    "slug": "test-alerte",
-    "status": "down",
-    "uptime": "45.62%",
-    "uptimeDay": "45.62%",
-    "uptimeWeek": "45.62%",
-    "uptimeMonth": "45.62%",
-    "uptimeYear": "45.62%",
-    "time": 12,
-    "timeDay": 12,
-    "timeWeek": 12,
-    "timeMonth": 12,
-    "timeYear": 12,
-    "dailyMinutesDown": {
-      "2026-07-31": 0
-    }
   }
 ]
