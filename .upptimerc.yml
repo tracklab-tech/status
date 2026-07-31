@@ -10,6 +10,8 @@ sites:
     url: https://portal.tracklab.co/app/api/health
   - name: Site web
     url: https://www.tracklab.co
+  - name: Test alerte
+    url: https://status.tracklab.co/introuvable-pour-test
 
 assignees:
   - quentinfapdepr
