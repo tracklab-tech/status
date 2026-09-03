@@ -4,18 +4,20 @@
     "url": "https://app.tracklab.co/app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.tracklab.co.ico",
     "slug": "application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 249,
-    "timeWeek": 307,
-    "timeMonth": 256,
-    "timeYear": 246,
-    "dailyMinutesDown": {}
+    "time": 243,
+    "timeDay": 200,
+    "timeWeek": 273,
+    "timeMonth": 252,
+    "timeYear": 243,
+    "dailyMinutesDown": {
+      "2026-09-03": 0
+    }
   },
   {
     "name": "API",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 215,
-    "timeWeek": 289,
+    "timeWeek": 294,
     "timeMonth": 261,
     "timeYear": 251,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 235,
     "timeDay": 199,
-    "timeWeek": 281,
+    "timeWeek": 263,
     "timeMonth": 243,
     "timeYear": 235,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 136,
-    "timeWeek": 220,
+    "timeWeek": 215,
     "timeMonth": 165,
     "timeYear": 157,
     "dailyMinutesDown": {}
