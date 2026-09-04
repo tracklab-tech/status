@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.tracklab.co.ico",
     "slug": "application",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 244,
-    "timeDay": 223,
-    "timeWeek": 272,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 243,
+    "timeDay": 215,
+    "timeWeek": 268,
     "timeMonth": 253,
-    "timeYear": 244,
-    "dailyMinutesDown": {
-      "2026-09-03": 7
-    }
+    "timeYear": 243,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 215,
-    "timeWeek": 294,
-    "timeMonth": 261,
-    "timeYear": 251,
+    "time": 248,
+    "timeDay": 138,
+    "timeWeek": 274,
+    "timeMonth": 255,
+    "timeYear": 248,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 199,
-    "timeWeek": 263,
-    "timeMonth": 243,
-    "timeYear": 235,
+    "time": 232,
+    "timeDay": 123,
+    "timeWeek": 245,
+    "timeMonth": 235,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 136,
-    "timeWeek": 215,
-    "timeMonth": 165,
-    "timeYear": 157,
+    "time": 154,
+    "timeDay": 48,
+    "timeWeek": 194,
+    "timeMonth": 157,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   }
 ]
