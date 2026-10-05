@@ -1,6 +1,10 @@
 owner: tracklab-tech
 repo: status
 
+# Never auto-delete short incident issues (<15 min) — issues are our SLA evidence.
+# Default Upptime behavior erased incident #14 (7 min, 2026-09-03) from the uptime %.
+skipDeleteIssues: true
+
 sites:
   - name: Application
     url: https://app.tracklab.co/app/api/health
